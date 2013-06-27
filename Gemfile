@@ -48,4 +48,4 @@ gem 'json'
 gem 'json_pure'
 gem 'execjs'
 gem 'libv8'
-
+gem 'mysql2'
