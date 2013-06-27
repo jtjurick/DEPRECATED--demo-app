@@ -44,8 +44,6 @@ end
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
-gem 'json'
-gem 'json_pure'
 gem 'execjs'
-gem 'libv8'
+gem 'therubyracer', :platforms => :ruby
 gem 'mysql2'
